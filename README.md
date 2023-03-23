@@ -1,4 +1,15 @@
-# ML-project
+# Final Project of the course "Machine Learning"
+## Team: The Ancient Octopi
+### Team members:
+- Ivan Gurev
+- Nikolay Kotoyants
+- Gleb Mazanov
+- Anna Iliushina
+- Viacheslav Naumov
+
+## Topic of the project
+Contrastive Learning for Event Sequences with Self-Supervision on multiple domains
+
 This project is devoted to classifying users for higher education, using transaction and clickstream data.
 
 Data is taken form [Data Fusion Contest 2022](https://ods.ai/competitions/data-fusion2022-education)
